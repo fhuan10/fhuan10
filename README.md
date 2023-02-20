@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Proficient in C++, Javascript, CSS3, HTML5, and SQL
+Proficient in C++, Javascript, CSS3, HTML5
 
 <!--
 **fhuan10/fhuan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
