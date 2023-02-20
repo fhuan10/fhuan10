@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Flora 👋
 
 Proficient in C++, Javascript, CSS3, HTML5
 
