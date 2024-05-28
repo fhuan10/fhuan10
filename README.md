@@ -6,7 +6,7 @@
 ### Check out some of the projects I have worked on 🔭
 - [Lotto-Simulator](https://github.com/nandinijirobe/Lotto-Simulator/tree/master)
 - [3 Hand Poker (HunterXHunter Ver.)](https://github.com/nandinijirobe/Poker-Hunter-X-Hunter-Version)
-- [Check Chicago Out](https://fhuan10.github.io/Check-Chicago-Out/Final/index.html)
+- [Costco Deals Hub](https://costco-deals.pages.dev/)
 
 <!--
 **fhuan10/fhuan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
