@@ -4,7 +4,6 @@
 - Career Interests: Web Development, Software Engineering, DevOps
 
 ### Check out some of the projects I have worked on 🔭
-- [Lotto-Simulator](https://github.com/nandinijirobe/Lotto-Simulator/tree/master)
 - [3 Hand Poker (HunterXHunter Ver.)](https://github.com/nandinijirobe/Poker-Hunter-X-Hunter-Version)
 - [Costco Deals Hub](https://costco-deals.pages.dev/)
 
